@@ -35,8 +35,7 @@ The **Solar Panel Fault Detection System** is an advanced solution designed to d
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-repo/solar-panel-fault-detection.git
-   cd solar-panel-fault-detection
+   git clone https://github.com/MuhammadHaseebOdho/Fyp.git
    ```
 
 2. **Install Dependencies**:
