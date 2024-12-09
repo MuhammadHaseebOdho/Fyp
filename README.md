@@ -1,6 +1,4 @@
-Here is a detailed **README.md** file tailored for your FYP project, including the functionality and implementation details based on the provided code and context.
 
----
 
 # Solar Panel Fault Detection System
 
@@ -86,10 +84,4 @@ solar-panel-fault-detection/
 
 ---
 
-## Author
-**Izhar Nabi & Muhammad Haseeb**  
-Feel free to contribute or raise issues on the project repository.
 
---- 
-
-Let me know if you'd like to make any edits or add specific details!
